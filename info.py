@@ -45,7 +45,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/FoxPrimeBotGroup')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/AkPicturesOfficial')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/FoxPrimeBotGroup')
-MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us 😄😄')
+MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', -1001805741429))
