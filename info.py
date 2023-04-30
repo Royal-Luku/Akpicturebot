@@ -54,8 +54,8 @@ FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/+rWxJgEwBlNdh
 HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/howtoopenfox/5')
 
 # Log Channels
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1001864443699))
-RQST_LOG_CHANNEL = int(environ.get('RQST_LOG_CHANNEL', -1001864443699))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1001870855110))
+RQST_LOG_CHANNEL = int(environ.get('RQST_LOG_CHANNEL', -1001870855110))
 
 # Bot Options
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
